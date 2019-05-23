@@ -1,6 +1,8 @@
 This is an open source implementation (c/c++) of paper: 
 Mosaicking of unmanned aerial vehicle imagery in the absence of camera poses, Remote Sensing, 2016.
 
+not completed.
+
 # Citation
 ```
 @article{xu2016mosaicking,
