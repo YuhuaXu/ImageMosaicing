@@ -1,5 +1,7 @@
 This is an open source implementation (c/c++) of paper: 
-Mosaicking of unmanned aerial vehicle imagery in the absence of camera poses, Remote Sensing, 2016.
+Mosaicking of unmanned aerial vehicle imagery in the absence of camera poses, Remote Sensing, 2016. 
+
+[Related Dataset](https://github.com/YuhuaXu/UAV-image-mosaicing-dataset)
 
 # Environment
 ---opencv 2.4.0
@@ -18,9 +20,8 @@ Mosaicking of unmanned aerial vehicle imagery in the absence of camera poses, Re
   publisher={Multidisciplinary Digital Publishing Institute}
 }
 ```
-<img width="600" src="https://github.com/YuhuaXu/UAV-image-mosaicing-dataset/blob/master/Fig/mosaic_res.png"/></div>
+<img width="600" src="Fig/mosaic_res.png"/></div>
 
-[Related Dataset](https://github.com/YuhuaXu/UAV-image-mosaicing-dataset)
 # Contact
 xyh_nudt@163.com
 
