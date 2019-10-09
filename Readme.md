@@ -20,7 +20,7 @@ Mosaicking of unmanned aerial vehicle imagery in the absence of camera poses, Re
   publisher={Multidisciplinary Digital Publishing Institute}
 }
 ```
-<img width="600" src="https://github.com/YuhuaXu/UAV-image-mosaicing-dataset/tree/master/Fig/mosaic_res.png"></div>
+<img width="600" src="https://github.com/YuhuaXu/UAV-image-mosaicing-dataset/blob/master/Fig/mosaic_res.png"/></div>
 
 # Contact
 xyh_nudt@163.com
