@@ -6,6 +6,7 @@ Mosaicking of unmanned aerial vehicle imagery in the absence of camera poses, Re
 # Environment
 ---opencv 2.4.0
 ---vs 2008
+---Create a folder under D disk, D:\feature_temp
 
 # Citation
 ```
